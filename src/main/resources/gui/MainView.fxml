@@ -17,10 +17,10 @@
             <children>
                 <MenuBar>
                     <menus>
-                        <Menu mnemonicParsing="false" text="Registrar">
+                        <Menu mnemonicParsing="false" text="Menu">
                             <items>
-                                <MenuItem fx:id="menuItemSeller" mnemonicParsing="false" onAction="#onMenuItemSellerAction" text="Vendedor" />
-                                <MenuItem fx:id="menuItemDepartment" mnemonicParsing="false" onAction="#onMenuItemDepartmentAction" text="Departamentos" />
+                                <MenuItem fx:id="menuItemSeller" mnemonicParsing="false" onAction="#onMenuItemSellerAction" text="Agendamento" />
+                                <MenuItem fx:id="menuItemDepartment" mnemonicParsing="false" onAction="#onMenuItemDepartmentAction" text="Serviços" />
                             </items>
                         </Menu>
                         <Menu mnemonicParsing="false" text="Informações">
