@@ -1,12 +1,12 @@
 .root
 {
-    -fx-border-color: blue;
-    -fx-border-width: 2px;
+    -fx-border-color: #fbfbfb;
+    -fx-border-width: 6px;
     -fx-border-radius: 5px;
     -fx-border-insets: 5px;
     -fx-padding: 10px;
     -fx-spacing: 5px;
-    -fx-background-color: lightgray;
+    -fx-background-color: #faf7f7;
     -fx-background-insets: 5px;
 }
 
@@ -36,7 +36,7 @@
 {
     -fx-font-size: 20px;
     -fx-font-weight: bold;
-    -fx-background-color: gray;
+    -fx-background-color: #070707;
     -fx-background-insets: 5;
     -fx-background-radius: 10;
 }
@@ -45,7 +45,7 @@
 {
     -fx-font-size: 15px;
     -fx-font-weight: bold;
-    -fx-background-color: blue;
+    -fx-background-color: #faf8f8;
     -fx-background-insets: 3;
     -fx-background-radius: 5;
 }
