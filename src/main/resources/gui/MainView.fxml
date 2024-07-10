@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="440.0" prefWidth="600.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="senac.senacfx.controller.MainViewController">
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="768.0" prefWidth="1024.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="senac.senacfx.controller.MainViewController">
     <content>
         <VBox prefHeight="405.0" prefWidth="566.0">
             <children>
@@ -25,9 +25,9 @@
                         </Menu>
                     </menus>
                 </MenuBar>
-            <TextField alignment="CENTER" editable="false" prefHeight="44.0" prefWidth="566.0" text="PROJETO SENAC 2022">
+            <TextField alignment="CENTER" editable="false" prefHeight="44.0" prefWidth="566.0" text="SOFTWARE DE AGENDAMENTO DE SERVIÇOS PARA ESTÉTICAS AUTOMOTIVAS">
                <VBox.margin>
-                  <Insets top="20.0" />
+                  <Insets top="18.0" />
                </VBox.margin>
                <font>
                   <Font name="System Bold" size="18.0" />
@@ -36,7 +36,7 @@
                   <Insets />
                </opaqueInsets>
             </TextField>
-            <ImageView fitHeight="250.0" fitWidth="500.0">
+            <ImageView fitHeight="620.0" fitWidth="900.0">
                <image>
                   <Image url="@../telafundo.jpg" />
                </image>
