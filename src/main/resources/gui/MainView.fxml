@@ -36,12 +36,12 @@
                   <Insets />
                </opaqueInsets>
             </TextField>
-            <ImageView fitHeight="500.0" fitWidth="500.0">
+            <ImageView fitHeight="250.0" fitWidth="500.0">
                <image>
                   <Image url="@../telafundo.jpg" />
                </image>
                <VBox.margin>
-                  <Insets left="160.0" top="30.0" />
+                  <Insets left="30.0" top="30.0" />
                </VBox.margin>
             </ImageView>
 
