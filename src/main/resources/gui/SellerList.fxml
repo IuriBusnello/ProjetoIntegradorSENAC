@@ -30,7 +30,7 @@
             <TableColumn fx:id="tableColumnEmail" prefWidth="105.0" text="E-mail" />
             <TableColumn fx:id="tableColumnBirthDate" prefWidth="189.0" text="Data de Agendamento" />
             <TableColumn fx:id="tableColumnBaseSalary" minWidth="8.0" prefWidth="137.0" text="Valor Serviço" />
-            <TableColumn fx:id="tableColumnEDIT" minWidth="0.0" prefWidth="84.0" text="Serviço" />
+            <TableColumn fx:id="tableColumnEDIT" minWidth="0.0" prefWidth="130.0" text="Serviço" />
             <TableColumn fx:id="tableColumnREMOVE" minWidth="1.0" prefWidth="1.0" />
         </columns>
       </TableView>
