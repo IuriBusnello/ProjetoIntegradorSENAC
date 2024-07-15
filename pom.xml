@@ -43,6 +43,21 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <version>1.4.200</version> <!-- Verifique a versão mais recente -->
+        <scope>test</scope>
+    </dependency>
+
+    <!-- JUnit 4 -->
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version> <!-- Verifique a versão mais recente -->
+        <scope>test</scope>
+    </dependency>
+
     </dependencies>
 
     <build>
